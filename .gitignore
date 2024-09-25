@@ -1,0 +1,4 @@
+python
+__pycache__
+git config --global user.name "Manaswini0623"
+git config --global user.email "maniswini.m@techouts.com"
